@@ -1,0 +1,22 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=64df0f0c_002D2c82_002D4a45_002D85ee_002D636e7968160f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test_String_Ctor_Exeption" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::C3E7C8AA-FFAE-4698-A122-1F11ACAA072D::net7.0::TestProject1.TimeTests.Test_String_Ctor_Exeption&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::C3E7C8AA-FFAE-4698-A122-1F11ACAA072D::net7.0::TestProject1.TimeTests.Test_String_Ctor_Work&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::C3E7C8AA-FFAE-4698-A122-1F11ACAA072D::net7.0::TestProject1.TimeTests.Test_Ctor_Pass_int&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::C3E7C8AA-FFAE-4698-A122-1F11ACAA072D::net7.0::TestProject1.TimeTests.Test_String_Ctor_Pass_String&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::C3E7C8AA-FFAE-4698-A122-1F11ACAA072D::net7.0::TestProject1.TimeTests.Test_Operator_To_String&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::C3E7C8AA-FFAE-4698-A122-1F11ACAA072D::net7.0::TestProject1.TimeTests.Test_Operator_Minus&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::C3E7C8AA-FFAE-4698-A122-1F11ACAA072D::net7.0::TestProject1.TimeTests.Test_Operator_Plus&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::C3E7C8AA-FFAE-4698-A122-1F11ACAA072D::net7.0::TestProject1.TimeTests.Test_Operator_equal&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::C3E7C8AA-FFAE-4698-A122-1F11ACAA072D::net7.0::TestProject1.TimeTests.Test_Operator_Compare&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::C3E7C8AA-FFAE-4698-A122-1F11ACAA072D::net7.0::TestProject1.TimePeriodTests.Test_String_Ctor_Exeption&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::C3E7C8AA-FFAE-4698-A122-1F11ACAA072D::net7.0::TestProject1.TimePeriodTests.Test_String_Ctor_Pass_String&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::C3E7C8AA-FFAE-4698-A122-1F11ACAA072D::net7.0::TestProject1.TimePeriodTests.Test_Ctor_Pass_int&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::C3E7C8AA-FFAE-4698-A122-1F11ACAA072D::net7.0::TestProject1.TimePeriodTests.Test_Operator_To_String&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::C3E7C8AA-FFAE-4698-A122-1F11ACAA072D::net7.0::TestProject1.TimePeriodTests.Test_Operator_Minus&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::C3E7C8AA-FFAE-4698-A122-1F11ACAA072D::net7.0::TestProject1.TimePeriodTests.Test_Operator_Plus&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::C3E7C8AA-FFAE-4698-A122-1F11ACAA072D::net7.0::TestProject1.TimePeriodTests.Test_Operator_equal&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::C3E7C8AA-FFAE-4698-A122-1F11ACAA072D::net7.0::TestProject1.TimePeriodTests.Test_Operator_Compare&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
